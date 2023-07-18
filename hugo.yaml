@@ -65,9 +65,9 @@ params:
   - title: Services
     url: "#section1"
   - title: Our Team
-    url: /
+    url: "#section2"
   - title: Pricing
-    url: /
+    url: https://mataralhawiti.github.io/brightdata/
   - title: Book a call
     url: "https://calendly.com/"
     button: true

@@ -19,11 +19,12 @@ Cards and Card content styles
         color: $blue-grey;
     }
     .card-icon img {
-        height: 120px;
-        margin-top: 20px;
+        // height: 120px;
+        height: 70px;
+        margin-top: 5px;
     }
     .card-text {
-        padding: 0 40px;
+        padding: 0 10px;
         p {
             color: $muted-grey;
         }

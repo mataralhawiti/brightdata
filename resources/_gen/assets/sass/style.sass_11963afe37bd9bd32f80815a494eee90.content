@@ -8158,10 +8158,10 @@ Cards and Card content styles
     font-weight: 600;
     color: #444F60; }
   .feature-card .card-icon img {
-    height: 120px;
-    margin-top: 20px; }
+    height: 70px;
+    margin-top: 5px; }
   .feature-card .card-text {
-    padding: 0 40px; }
+    padding: 0 10px; }
     .feature-card .card-text p {
       color: #999; }
   .feature-card .card-action {

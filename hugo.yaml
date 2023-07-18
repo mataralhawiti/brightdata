@@ -77,18 +77,43 @@ params:
     # subtitle: with great responsibility
     tiles:
     - title: Cloud data Platform
-      icon: mouse-globe
-      text: Build cloud based data infrastructure
+      icon: data-cloud
+      text: A single, global platform that powers the Data Cloud. Snowflake is uniquely designed to connect businesses globally, across any type or scale of data and many different workloads, and unlock seamless data collaboration.
       url: /
       buttonText: Free trial
     - title: Real-time processing
       icon: laptop-cloud
-      text: Apache Kafka and Apach Flink expertise
+      text: Real-time processing is a method of processing data at a near-instant rate, requiring a constant flow of data intake and output to maintain real-time insights.
       url: /
       buttonText: Get started
-    - title: Open source
+    - title: Data Lake
       icon: plug-cloud
-      text: It's all about source data stack
+      text: A data lake is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data.
+      url: /
+      buttonText: Get started
+    - title: Apache Kafka
+      icon: kafka
+      text: Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+      url: /
+      buttonText: Get started
+    - title: Apache Flink
+      icon: flink
+      text: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+      url: /
+      buttonText: Get started
+    - title: Data lakehouse
+      icon: plug-cloud
+      text: he next generation of the data warehouse and data lake, designed to meet today's complex and ever-changing analytics, machine learning, and data science requirements.
+      url: /
+      buttonText: Get started
+    - title: Data modeling
+      icon: plug-cloud
+      text:  the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures.
+      url: /
+      buttonText: Get started
+    - title: Data on Kubernetes
+      icon: plug-cloud
+      text: Is Kubernetes ready for stateful workloads? This open source system has become the primary platform for deploying and managing cloud native applications. But because it was originally designed for stateless workloads.
       url: /
       buttonText: Get started
   section2:

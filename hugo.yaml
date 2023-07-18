@@ -1,4 +1,5 @@
-baseURL: https://mataralhawiti.github.io/brightdata
+#baseURL: https://mataralhawiti.github.io/brightdata
+baseURL: https://www.brightdata.com
 languageCode: en-us
 title: Bright data
 
@@ -40,7 +41,7 @@ params:
     # Main hero title
     title: Brighten your data
     # Hero subtitle (optional)
-    subtitle: We help you design, build and deploy a modern data stack
+    subtitle: We help you design, build and deploy a modern data stack. Our team is highly skilled working with data on Kubernetes, Apache Kafka, Apache Spark, MS SQL Server.
     # Button text
     buttontext: Contact us
     # Where the main hero button links to
@@ -91,19 +92,22 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: You're here because you want the best
+    title: Our team
     # subtitle: And we know it
     features:
     - title: Matar Alhawiti
       text: Seeking opportunities to work on cloud-based and data-driven products that will utilize my technical and analytical skills, allowing me to produce and deliver robust and creative solutions.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: matar1
+      subtitle: mataralhawiti
     - title: Mohsen Almasood
       text: Seeking opportunities to work on cloud-based and data-driven products that will utilize my technical and analytical skills, allowing me to produce and deliver robust and creative solutions.
-      icon: doc-sync
+      icon: matar2
+      subtitle: mataralhawiti
     - title: Moath Alhabib
       text: Seeking opportunities to work on cloud-based and data-driven products that will utilize my technical and analytical skills, allowing me to produce and deliver robust and creative solutions.
-      icon: mobile-feed
+      icon: matar3
+      subtitle: mataralhawiti
   section4:
     title: Our Clients love us!
     # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
@@ -120,6 +124,12 @@ params:
       quote: The right people to take your data to a new level.
       job: HR Manager
       img: 3
+  # section5:
+  #   title: Drop us a line or two
+  #   subtitle: We'd love to hear from you
+  #   buttonText: Send Message
+  #   # action: https://formspree.io/f/<form_id>
+  #   # method: POST
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg

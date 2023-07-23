@@ -41,7 +41,8 @@ params:
     # Main hero title
     title: Brighten your data
     # Hero subtitle (optional)
-    subtitle: We help you design, build and deploy a modern data stack. Our team is highly skilled working with data on Kubernetes, Apache Kafka, Apache Spark, MS SQL Server.
+    # subtitle: We help you design, build and deploy a modern data stack. Our team is highly skilled working with data on Kubernetes, Apache Kafka, Apache Spark, MS SQL Server.
+    subtitle: We help you design, build and deploy a modern data stack. Our team has unmatched experience designing, building, and running production data workloads
     # Button text
     buttontext: Contact us
     # Where the main hero button links to

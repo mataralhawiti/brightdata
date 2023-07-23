@@ -8163,7 +8163,7 @@ Cards and Card content styles
   .feature-card .card-text {
     padding: 0 10px; }
     .feature-card .card-text p {
-      color: #999; }
+      color: #344258; }
   .feature-card .card-action {
     margin-top: 10px; }
   .feature-card.is-bordered {

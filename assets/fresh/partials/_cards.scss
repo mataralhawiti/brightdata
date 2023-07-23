@@ -26,7 +26,8 @@ Cards and Card content styles
     .card-text {
         padding: 0 10px;
         p {
-            color: $muted-grey;
+            // color: $muted-grey;
+            color: $dark-grey;
         }
     }
     .card-action {

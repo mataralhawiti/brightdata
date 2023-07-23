@@ -78,42 +78,42 @@ params:
     tiles:
     - title: Cloud Data Platform
       icon: data-cloud
-      text: A single, global platform that powers the Data Cloud. Snowflake is uniquely designed to connect businesses globally, across any type or scale of data and many different workloads, and unlock seamless data collaboration.
+      text: Unleash the power of the public clouds by leveraging data serverless solutions to build your modern data infrastructure
       url: /
       buttonText: Free trial
     - title: Real-Time Data Processing
       icon: real-time-stream
-      text: Real-time processing is a method of processing data at a near-instant rate, requiring a constant flow of data intake and output to maintain real-time insights.
+      text: Empower your business and unlock the new potentials by truing your data stream into valuable insight in real time
       url: /
       buttonText: Get started
-    - title: Data Lake/Lakehouse
+    - title: Data Lake
       icon: data-lake
-      text: A data lake is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data.
+      text: Store all your business structured, semistructured and unstructured data in centralized, cost-effective, scalable storage. Run variety of workloads from ad-hoc queries to big data analytics
       url: /
       buttonText: Get started
-    - title: Event Streaming 
+    - title: Event Streaming
       icon: kafka
-      text: Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+      text: Adopt Event-driven architecture to seamlessly integrate and scale your applications. Easily and effortlessly deploy and run your Apache Kafka platform
       url: /
       buttonText: Get started
     - title: Data on Kubernetes
-      icon: k8b-name
-      text: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+      icon: k8b
+      text: Take advantage of Kubernetes and its unique ecosystem to run and scale your data workloads. Reduce the complexity and effort to explore, build, test and deploy more complex data use-cases
       url: /
       buttonText: Get started
     - title: Data Warehousing
-      icon: k8b
-      text: he next generation of the data warehouse and data lake, designed to meet today's complex and ever-changing analytics, machine learning, and data science requirements.
+      icon: dw-11
+      text: Integrate data from multiple heterogeneous sources to build a consolidated data store to support all your enterprise analytical reporting, dashboards and decision making.
       url: /
       buttonText: Get started
-    - title: Relationl Databases
-      icon: k8b-name
-      text:  the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures.
+    - title: Relational Databases
+      icon: db
+      text:  Design, implement and deploy your relational database from logical to physical
       url: /
       buttonText: Get started
     - title: Data Visualization
-      icon: plug-cloud
-      text: Is Kubernetes ready for stateful workloads? This open source system has become the primary platform for deploying and managing cloud native applications. But because it was originally designed for stateless workloads.
+      icon: viz
+      text: Bring your data to life and convey your business insights in meaningful ways. Tell a story about your data in breathtaking colorful interactive dashboards
       url: /
       buttonText: Get started
   section2:

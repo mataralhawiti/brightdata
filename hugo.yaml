@@ -46,7 +46,8 @@ params:
     # Button text
     buttontext: Contact us
     # Where the main hero button links to
-    buttonlink: "#"
+    # buttonlink: "#"
+    buttonlink: "#section5"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -150,12 +151,12 @@ params:
       quote: The right people to take your data to a new level.
       job: HR Manager
       img: 3
-  # section5:
-  #   title: Drop us a line or two
-  #   subtitle: We'd love to hear from you
-  #   buttonText: Send Message
-  #   # action: https://formspree.io/f/<form_id>
-  #   # method: POST
+  section5:
+    title: Drop us a line or two
+    subtitle: We'd love to hear from you
+    buttonText: Send Message
+    action: https://formspree.io/f/xpzgwkjw
+    method: POST
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg

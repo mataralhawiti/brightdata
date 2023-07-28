@@ -29,11 +29,11 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
-    link: /brightdata
+    image: logos/datumops.svg
+    link: /
     # Default width/height. Uncomment if you need to change
-    # width: 112
-    # height: 28
+    width: 180
+    height: 30
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -48,7 +48,7 @@ params:
     buttontext: Contact us
     # Where the main hero button links to
     # buttonlink: "#"
-    buttonlink: "#section5"
+    buttonlink: "/section5"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -71,7 +71,7 @@ params:
   # - title: Our Team
   #   url: "#section2"
   # - title: Pricing
-  #   url: https://mataralhawiti.github.io/brightdata/
+  #   url: /getstarted
   - title: Book a call
     url: "https://calendly.com/"
     button: true
@@ -160,15 +160,15 @@ params:
     method: POST
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: datumops-white.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/brightdata
+    - link: https://github.com/datumops
       # Icons are from Font Awesome
       icon: github
-    - link: https://twitter.com/brightdata
+    - link: https://twitter.com/datumops
       icon: twitter
     quicklinks:
       column1:

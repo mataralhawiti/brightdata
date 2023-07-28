@@ -86,12 +86,12 @@ params:
       buttonText: Free trial
     - title: Real-Time Data Processing
       icon: real-time-stream
-      text: Empower your business and unlock the new potentials by truing your data stream into valuable insight in real time
+      text: Empower your business and unlock new potentials by turning your data stream into valuable insights in real time
       url: /
       buttonText: Get started
     - title: Data Lake
       icon: data-lake
-      text: Store all your business structured, semistructured and unstructured data in centralized, cost-effective, scalable storage. Run variety of workloads from ad-hoc queries to big data analytics
+      text: Store all your business's structured, semistructured and unstructured data in a centralized, cost-effective, scalable storage. Run variety of workloads from ad-hoc queries to big data analytics
       url: /
       buttonText: Get started
     - title: Event Streaming
@@ -106,7 +106,7 @@ params:
       buttonText: Get started
     - title: Data Warehousing
       icon: dw-11
-      text: Integrate data from multiple heterogeneous sources to build a consolidated data store to support all your enterprise analytical reporting, dashboards and decision making.
+      text: Integrate data from multiple heterogeneous sources to build a consolidated data store to support all your enterprise analytical reporting, dashboards and decision making
       url: /
       buttonText: Get started
     - title: Relational Databases
@@ -140,9 +140,9 @@ params:
     title: Our Clients love us!
     # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clients:
-    - name: STCPay
+    - name: Elon Musk
       quote: Spend, save and manage your finances all in one place with a safer, more secure way to pay.
-      job: Digital Bank
+      job: CEO, DatumOps
       img: 1
     - name: John Bradley
       quote: Digital detox cabins just an hour or so from city life. Beautifully located in the beautiful British countryside to escape the everyday grind. 

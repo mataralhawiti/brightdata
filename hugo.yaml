@@ -43,7 +43,6 @@ params:
     # title: Brighten your data
     title: Create Insightful Datums
     # Hero subtitle (optional)
-    # subtitle: We help you design, build and deploy a modern data stack. Our team is highly skilled working with data on Kubernetes, Apache Kafka, Apache Spark, MS SQL Server.
     # subtitle: We help you design, build and deploy a modern data stack. Our team has unmatched experience designing, building, and running production data workloads
     subtitle: Together - we design, build, deploy a modern data stack
     # Button text

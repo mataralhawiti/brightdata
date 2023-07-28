@@ -29,7 +29,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: brightdata/static/images/logos/fresh.svg
+    image: logos/fresh.svg
     link: /brightdata
     # Default width/height. Uncomment if you need to change
     # width: 112
